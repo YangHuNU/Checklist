@@ -33,6 +33,10 @@ Galaxy 6:
 Pixel 2:
 ![alt text](https://github.com/YangHuNU/Checklist/raw/master/Screenshots/Pixel2_ScreenShots.PNG "Pixel2")
 
+
+#### Comparison Between Android Studio and React Native
+React Native is a mobile application framework while Android Studio is an IDE. React Native is written in JavaScript. One huge advantage of React native is its flexibility on cross-platform. As using Android Studio, I wrote majority of codes in Java and then enable the front end feature through forms. However, React Native seems to combine them well together as coding. 
+
 #### Reference
 The app is made by following [the tutorial video](https://www.youtube.com/watch?v=YmRPIGFftp0&t=258s) with my own customization. 
 In the video, the original app doesn't store any delete actions into a seperate file. Therefore, once the app is closed and reopened, any deleted items will show up again. I fixed the problem in my own code.
